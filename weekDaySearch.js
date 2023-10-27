@@ -14,5 +14,5 @@ else if (numericRepresentationOfTheDayOfTheWeek === 6)
     console.log(`${numericRepresentationOfTheDayOfTheWeek} - это Суббота`)
 else if (numericRepresentationOfTheDayOfTheWeek === 7)
     console.log(`${numericRepresentationOfTheDayOfTheWeek} - это Воскресенье`)
-else console.log('неверные данные') 
+else console.log('Неверные данные') 
 
